@@ -1,0 +1,16 @@
+.list-items{
+    width: 30%;
+    padding: 20px;
+}
+
+.price-container{
+    display: flex;
+}
+
+.discount{
+    padding-left: 30px;
+}
+
+.button{
+    background-color:lightblue;
+}
